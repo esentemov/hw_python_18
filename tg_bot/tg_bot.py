@@ -1,7 +1,7 @@
 import telebot
 from random import choice
 
-bot = telebot.TeleBot('1261242858:AAFwYjNRBggzfhCIVw7TW-IoOHvsR_wQ0cM')
+bot = telebot.TeleBot('token')
 keyboard1 = telebot.types.ReplyKeyboardMarkup()
 keyboard1.row('Саня', 'Мем')
 
