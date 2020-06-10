@@ -1,5 +1,5 @@
 from re import fullmatch
-
+from users import User
 
 class Validate():
     """Валидация
