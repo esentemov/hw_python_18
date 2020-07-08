@@ -1,0 +1,24 @@
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    font-size: 20px;
+    font-family: 'Luminari', cursive;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+ul{
+    font-size: 15px;
+    font-family: 'Luminari', cursive;
+    text-align: left;
+    letter-spacing: 1.5px;
+}
+
+img{
+    margin-left: 40%;
+
+    width: 400px;
+}
+body {background-color: #fcfcf4;}
